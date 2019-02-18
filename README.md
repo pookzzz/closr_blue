@@ -27,3 +27,7 @@ Flow 2 - Existing account, new device
   a. turn on bluetooth notification
 4. Login screen
 5. Widget to activate
+
+TODO
+----
+* https://engineersportal.com/blog/2017/9/20/hm-10-bluetooth-module?rq=hm%2010
